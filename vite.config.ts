@@ -25,5 +25,5 @@ export default defineConfig(({mode}) => {
 });
 
 export default defineConfig({
-  base: 'Pontual', 
+  base: '/Pontual/', 
 })
